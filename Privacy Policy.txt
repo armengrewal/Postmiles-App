@@ -1,0 +1,15 @@
+This privacy policy only applies to the Postmiles app. 
+
+Postmiles does not collect any data. If you opt in to share information with developers, Apple provides the anonymous information to the developers.
+
+Location:
+The app uses location services built into your device. Your location is only accessed when you provide permission to the app. Your location is never shared outside the framework that your device provides. 
+
+Third Party Services:
+The app uses no other third party analytics tools to track your activity in the app.
+
+Changes to this policy:
+The privacy policy may be updated at anytime. If you have any questions, please contact the owner via the information/settings section in the app.
+
+Change log:
+October 23, 2022: First published.
