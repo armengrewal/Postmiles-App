@@ -6,10 +6,11 @@ Location:
 The app uses location services built into your device. Your location is only accessed when you provide permission to the app. Your location is never shared outside the framework that your device provides. 
 
 Third Party Services:
-The app uses no other third party analytics tools to track your activity in the app.
+The app collects anonymous analytics to measure which app features are being used the most. This allows me to focus on improving the features that are used the most. The app uses TelemetryDeck as the tool to collect these anonymous analytics.
 
 Changes to this policy:
 The privacy policy may be updated at anytime. If you have any questions, please contact the owner via the information/settings section in the app.
 
 Change log:
 October 23, 2022: First published.
+February 26, 2023: Enabled anonymous analytics.
